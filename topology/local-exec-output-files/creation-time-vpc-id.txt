@@ -6,3 +6,4 @@ VPC created on Fri Apr 1 16:48:01 IST 2022 and VPC ID: vpc-01ee288bdeb09dd64
 VPC created on `date` and VPC ID: vpc-0fbdf80f294cdf191 
 VPC created on `date` and VPC ID: vpc-03bc5b4410940388a 
 VPC created on `date` and VPC ID: vpc-0b96ef18bf9d2d380 
+VPC created on `date` and VPC ID: vpc-0ce3dfbcb50f30ba9 
