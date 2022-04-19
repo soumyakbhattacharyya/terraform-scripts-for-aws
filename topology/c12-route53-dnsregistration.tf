@@ -1,7 +1,7 @@
 # DNS Registration 
 resource "aws_route53_record" "apps_dns" {
   zone_id = data.aws_route53_zone.mydomain.zone_id 
-  name    = "apps.rekruter.link"
+  name    = "apps-cluster.rekruter.link"
   type    = "A"
   alias {
     name                   = module.alb.lb_dns_name

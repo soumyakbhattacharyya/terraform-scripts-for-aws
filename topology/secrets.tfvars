@@ -1,1 +1,1 @@
-db_password = "dbpassword11"
+db_password = "helpdesk123456"

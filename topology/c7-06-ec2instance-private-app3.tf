@@ -6,7 +6,7 @@ module "ec2_private_app3" {
   version = "3.5.0"
   for_each = toset(["0", "1"])
   # insert the 10 required variables here
-  name                   = "${var.environment}-app3"
+  name                   = "${var.environment}-vm-${each.key}-app3"
   ami                    = data.aws_ami.amzlinux2.id
   instance_type          = var.instance_type
   key_name               = var.instance_keypair
