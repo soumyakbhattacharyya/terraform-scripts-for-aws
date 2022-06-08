@@ -1,0 +1,26 @@
+VPC created on Fri Dec 31 16:47:17 IST 2021 and VPC ID: vpc-0f83c09823d06c558
+VPC created on Thu Mar 31 18:09:58 IST 2022 and VPC ID: vpc-0f633ac386b891a24
+VPC created on Fri Apr 1 10:41:38 IST 2022 and VPC ID: vpc-04bb894c2f4b3052c
+VPC created on Fri Apr 1 14:04:54 IST 2022 and VPC ID: vpc-00056e561335b7075
+VPC created on Fri Apr 1 16:48:01 IST 2022 and VPC ID: vpc-01ee288bdeb09dd64
+VPC created on `date` and VPC ID: vpc-0fbdf80f294cdf191 
+VPC created on `date` and VPC ID: vpc-03bc5b4410940388a 
+VPC created on `date` and VPC ID: vpc-0b96ef18bf9d2d380 
+VPC created on `date` and VPC ID: vpc-0ce3dfbcb50f30ba9 
+VPC created on `date` and VPC ID: vpc-00665e3535c5b4b38 
+VPC created on Wed Apr 6 15:00:04 IST 2022 and VPC ID: vpc-00e0ebe23f409f35a
+VPC created on Mon Apr 11 23:04:02 IST 2022 and VPC ID: vpc-0b0a10e7f7216f498
+VPC created on `date` and VPC ID: vpc-099f3a35f566a3deb 
+VPC created on `date` and VPC ID: vpc-091a17fe4ab9acb6c 
+VPC created on Tue Apr 12 17:20:35 IST 2022 and VPC ID: vpc-04e6c6203993a527f
+VPC created on Wed Apr 13 10:35:30 IST 2022 and VPC ID: vpc-0d74a3bb5b3074a81
+VPC created on Wed Apr 13 11:14:45 IST 2022 and VPC ID: vpc-04a74e7dac443da05
+VPC created on Wed Apr 13 12:25:20 IST 2022 and VPC ID: vpc-0602c05971d45a646
+VPC created on `date` and VPC ID: vpc-01add0cbeaed2458f 
+VPC created on `date` and VPC ID: vpc-0537daee4bfc0fc8a 
+VPC created on `date` and VPC ID: vpc-0a9549b018a3e2200 
+VPC created on `date` and VPC ID: vpc-0a0e7e5c0ef406a5e 
+VPC created on `date` and VPC ID: vpc-0b47eaa3483aa258d 
+VPC created on `date` and VPC ID: vpc-05da7d5b4b508c6c7 
+VPC created on `date` and VPC ID: vpc-0b2a61e1d7c197a26 
+VPC created on Wed May 11 08:24:17 IST 2022 and VPC ID: vpc-0b887a67712805f92
